@@ -1,0 +1,2 @@
+# Rotations
+Public server rotations
