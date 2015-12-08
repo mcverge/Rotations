@@ -1,2 +1,4 @@
 # Rotations
-Public server rotations
+Public server rotations for Minecraft Verge (McVerge)
+
+
