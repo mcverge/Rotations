@@ -1,16 +1,18 @@
-- Halloween
-  Version: 1.0
-  Gamemode: TDM
-  Teams: 2
 - Gladiators
   Version: 2.0
   Gamemode: TDM
   Teams: 4
-- Hardships
+- Aviation
   Version: 1.0
   Gamemode: DTM
   Teams: 2
-- Downshift
+- Holidays
   Version: 1.0
   Gamemode: DTM
   Teams: 2
+- Ruins
+  Version: 1.0
+  Gamemode: TDM
+- Ruins 2
+  Version: 2.0
+  Gamemode: TDM
