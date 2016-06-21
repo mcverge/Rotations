@@ -1,18 +1,16 @@
 - Gladiators
-  Version: 2.0
-  Gamemode: TDM
-  Teams: 4
+   Version: 2.0
+   Gamemode: TDM
+   Teams: 4
 - Aviation
-  Version: 1.0
-  Gamemode: DTM
-  Teams: 2
+   Version: 1.0
+   Gamemode: DTM
+   Teams: 2
 - Holidays
-  Version: 1.0
-  Gamemode: DTM
-  Teams: 2
-- Ruins
-  Version: 1.0
-  Gamemode: TDM
-- Ruins 2
-  Version: 2.0
-  Gamemode: TDM
+   Version: 1.0
+   Gamemode: DTM
+   Teams: 2
+- Aftermath
+   Version: 1.0
+   Gamemode: TDM
+   Teams: 2
